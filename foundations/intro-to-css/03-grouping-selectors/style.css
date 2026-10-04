@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.black,
+.yellow {
+font-family: Verdana, "DejaVu Sans", sans-serif;
+font-size: xx-large;
+border: 2px solid black;
+}
+.black {
+    background-color: black;
+    color: white;
+}
+.yellow {
+    background-color: yellow;
+}
