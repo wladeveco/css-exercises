@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.salmon {
+    background-color: #ffa7a7;
+}
+.big-one {
+    font-size: 24px;
+}
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+#number4 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(128, 255, 128);
+}
